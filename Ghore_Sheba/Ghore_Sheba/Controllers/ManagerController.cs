@@ -8,7 +8,7 @@ namespace Ghor_Sheba.Controllers
 {
     public class ManagerController : Controller
     {
-        // GET: Manager
+        // GET: Manager controller
         public ActionResult Index()
         {
             return View();
